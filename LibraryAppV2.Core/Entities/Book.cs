@@ -23,6 +23,8 @@ namespace LibraryAppV2.Core.Entities
         public string Author { get; private set; }
         public string ISBN { get; private set; }
         public int Year { get; private set; }
+
+        public List<BookComment> CommentList { get; private set; } = new List<BookComment>();
         public BookStatusEnum Status { get; private set; }
 }
 }

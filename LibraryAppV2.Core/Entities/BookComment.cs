@@ -1,6 +1,6 @@
 ﻿namespace LibraryAppV2.Core.Entities
 {
-    public class BookComment
+    public class BookComment : BaseEntity
     {
         public BookComment(string content, int idBook, int idUser) 
         { 

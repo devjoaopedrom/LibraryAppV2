@@ -9,3 +9,15 @@ E:\Mentoria .Start\Projeto\LibraryAppV2\LibraryAppV2.Core\obj\Debug\net9.0\Libra
 E:\Mentoria .Start\Projeto\LibraryAppV2\LibraryAppV2.Core\obj\Debug\net9.0\refint\LibraryAppV2.Core.dll
 E:\Mentoria .Start\Projeto\LibraryAppV2\LibraryAppV2.Core\obj\Debug\net9.0\LibraryAppV2.Core.pdb
 E:\Mentoria .Start\Projeto\LibraryAppV2\LibraryAppV2.Core\obj\Debug\net9.0\ref\LibraryAppV2.Core.dll
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2.Core\bin\Debug\net9.0\LibraryAppV2.Core.deps.json
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2.Core\bin\Debug\net9.0\LibraryAppV2.Core.dll
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2.Core\bin\Debug\net9.0\LibraryAppV2.Core.pdb
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2.Core\obj\Debug\net9.0\LibraryAppV2.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2.Core\obj\Debug\net9.0\LibraryAppV2.Core.AssemblyInfoInputs.cache
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2.Core\obj\Debug\net9.0\LibraryAppV2.Core.AssemblyInfo.cs
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2.Core\obj\Debug\net9.0\LibraryAppV2.Core.csproj.CoreCompileInputs.cache
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2.Core\obj\Debug\net9.0\LibraryAppV2.Core.sourcelink.json
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2.Core\obj\Debug\net9.0\LibraryAppV2.Core.dll
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2.Core\obj\Debug\net9.0\refint\LibraryAppV2.Core.dll
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2.Core\obj\Debug\net9.0\LibraryAppV2.Core.pdb
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2.Core\obj\Debug\net9.0\ref\LibraryAppV2.Core.dll

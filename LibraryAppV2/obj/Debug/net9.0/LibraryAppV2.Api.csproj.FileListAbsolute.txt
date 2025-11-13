@@ -30,3 +30,38 @@ E:\Mentoria .Start\Projeto\LibraryAppV2\LibraryAppV2\obj\Debug\net9.0\refint\Lib
 E:\Mentoria .Start\Projeto\LibraryAppV2\LibraryAppV2\obj\Debug\net9.0\LibraryAppV2.Api.pdb
 E:\Mentoria .Start\Projeto\LibraryAppV2\LibraryAppV2\obj\Debug\net9.0\LibraryAppV2.Api.genruntimeconfig.cache
 E:\Mentoria .Start\Projeto\LibraryAppV2\LibraryAppV2\obj\Debug\net9.0\ref\LibraryAppV2.Api.dll
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2\bin\Debug\net9.0\appsettings.json
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2\bin\Debug\net9.0\LibraryAppV2.Api.staticwebassets.endpoints.json
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2\bin\Debug\net9.0\LibraryAppV2.Api.exe
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2\bin\Debug\net9.0\LibraryAppV2.Api.deps.json
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2\bin\Debug\net9.0\LibraryAppV2.Api.runtimeconfig.json
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2\bin\Debug\net9.0\LibraryAppV2.Api.dll
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2\bin\Debug\net9.0\LibraryAppV2.Api.pdb
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2\obj\Debug\net9.0\LibraryAppV2.Api.csproj.AssemblyReference.cache
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2\obj\Debug\net9.0\LibraryAppV2.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2\obj\Debug\net9.0\LibraryAppV2.Api.AssemblyInfoInputs.cache
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2\obj\Debug\net9.0\LibraryAppV2.Api.AssemblyInfo.cs
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2\obj\Debug\net9.0\LibraryAppV2.Api.csproj.CoreCompileInputs.cache
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2\obj\Debug\net9.0\LibraryAppV2.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2\obj\Debug\net9.0\LibraryAppV2.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2\obj\Debug\net9.0\LibraryAppV2.Api.sourcelink.json
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2\obj\Debug\net9.0\scopedcss\bundle\LibraryAppV2.Api.styles.css
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2\obj\Debug\net9.0\staticwebassets\msbuild.LibraryAppV2.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2\obj\Debug\net9.0\staticwebassets\msbuild.LibraryAppV2.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2\obj\Debug\net9.0\staticwebassets\msbuild.build.LibraryAppV2.Api.props
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.LibraryAppV2.Api.props
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.LibraryAppV2.Api.props
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2\obj\Debug\net9.0\LibraryA.4D6175F6.Up2Date
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2\obj\Debug\net9.0\LibraryAppV2.Api.dll
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2\obj\Debug\net9.0\refint\LibraryAppV2.Api.dll
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2\obj\Debug\net9.0\LibraryAppV2.Api.pdb
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2\obj\Debug\net9.0\LibraryAppV2.Api.genruntimeconfig.cache
+C:\Users\bruna\source\repos\devjoaopedrom\LibraryAppV2\LibraryAppV2\obj\Debug\net9.0\ref\LibraryAppV2.Api.dll

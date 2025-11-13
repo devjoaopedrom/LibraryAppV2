@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "OrvasRAkYDM=",
+  "dgSpecHash": "8M2dYWTlxkU=",
   "success": true,
-  "projectFilePath": "E:\\Mentoria .Start\\Projeto\\LibraryAppV2\\LibraryAppV2\\LibraryAppV2.Api.csproj",
+  "projectFilePath": "C:\\Users\\bruna\\source\\repos\\devjoaopedrom\\LibraryAppV2\\LibraryAppV2\\LibraryAppV2.Api.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\joaop\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.9\\microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
-    "C:\\Users\\joaop\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+    "C:\\Users\\bruna\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.9\\microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
+    "C:\\Users\\bruna\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
   ],
   "logs": []
 }
