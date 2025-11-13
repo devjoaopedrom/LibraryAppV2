@@ -1,0 +1,11 @@
+E:\Mentoria .Start\Projeto\LibraryAppV2\LibraryAppV2.Core\obj\Debug\net9.0\LibraryAppV2.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mentoria .Start\Projeto\LibraryAppV2\LibraryAppV2.Core\obj\Debug\net9.0\LibraryAppV2.Core.AssemblyInfoInputs.cache
+E:\Mentoria .Start\Projeto\LibraryAppV2\LibraryAppV2.Core\obj\Debug\net9.0\LibraryAppV2.Core.AssemblyInfo.cs
+E:\Mentoria .Start\Projeto\LibraryAppV2\LibraryAppV2.Core\obj\Debug\net9.0\LibraryAppV2.Core.csproj.CoreCompileInputs.cache
+E:\Mentoria .Start\Projeto\LibraryAppV2\LibraryAppV2.Core\bin\Debug\net9.0\LibraryAppV2.Core.deps.json
+E:\Mentoria .Start\Projeto\LibraryAppV2\LibraryAppV2.Core\bin\Debug\net9.0\LibraryAppV2.Core.dll
+E:\Mentoria .Start\Projeto\LibraryAppV2\LibraryAppV2.Core\bin\Debug\net9.0\LibraryAppV2.Core.pdb
+E:\Mentoria .Start\Projeto\LibraryAppV2\LibraryAppV2.Core\obj\Debug\net9.0\LibraryAppV2.Core.dll
+E:\Mentoria .Start\Projeto\LibraryAppV2\LibraryAppV2.Core\obj\Debug\net9.0\refint\LibraryAppV2.Core.dll
+E:\Mentoria .Start\Projeto\LibraryAppV2\LibraryAppV2.Core\obj\Debug\net9.0\LibraryAppV2.Core.pdb
+E:\Mentoria .Start\Projeto\LibraryAppV2\LibraryAppV2.Core\obj\Debug\net9.0\ref\LibraryAppV2.Core.dll
